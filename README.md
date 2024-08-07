@@ -5,7 +5,7 @@ This program is a compilation of calculators and tools used by each of our subte
 <h2>Releases</h2>
 <h3>v1.0.0</h3>
 
-&emsp;Install for [Windows x64](https://drive.google.com/file/d/1ad8UhdjZzbxEjsTI5qmEPAN4QGm3E_7Z/view?usp=sharing)
+&emsp;Install for [Windows x64](https://drive.google.com/file/d/1ad8UhdjZzbxEjsTI5qmEPAN4QGm3E_7Z/view?usp=sharing) (84 MB)
 
 &emsp;<h2>Installation Instructions</h2>
 
