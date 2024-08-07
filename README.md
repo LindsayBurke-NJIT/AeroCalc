@@ -5,9 +5,9 @@ This program is a compilation of calculators and tools used by each of our subte
 <h2>Releases</h2>
 <t><h3>v1.0.0</h3>
 
-<t>Install for [Windows x64](https://drive.google.com/file/d/1ad8UhdjZzbxEjsTI5qmEPAN4QGm3E_7Z/view?usp=sharing)
+&emsp;Install for [Windows x64](https://drive.google.com/file/d/1ad8UhdjZzbxEjsTI5qmEPAN4QGm3E_7Z/view?usp=sharing)
 
-<h2>Installation Instructions</h2>
+&emsp;<h2>Installation Instructions</h2>
 
 1) Under releases, select the proper link for your device (currently only available for Windows x64).
 2) Download the Install.zip file
