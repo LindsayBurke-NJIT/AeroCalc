@@ -20,6 +20,7 @@ This program is a compilation of calculators and tools used by each of our subte
 
 <h2>Update Log</h2>
 <h3>Version 1.0.1</h3>
+
 * Removed select button from dropdown menu for the Tail tab's volume ratio calculator.
 
 * Rounded all floating points to five decimal places.
